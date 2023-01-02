@@ -21,9 +21,9 @@ void output(bank_subscription* subscriptions)
 int main()
 {
 	setlocale(LC_ALL, "ru");
-	cout << "Laboratory work #8. GIT\n";
+	cout << "Laboratory work #9. GIT\n";
 	cout << "Variant #4. Exchange rates\n";
-	cout << "Author: Michael Dyakonov\n";
+	cout << "Author: Michael Duakonov\n";
 	cout << "Group: 12\n";
 	const char* s = "12,32";
 	cout << atof(s) << endl << endl;
