@@ -132,6 +132,10 @@
   <ItemGroup>
     <Text Include="date.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bank_subscription.h" />
+    <ClInclude Include="constants.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
