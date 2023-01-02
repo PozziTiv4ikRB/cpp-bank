@@ -40,5 +40,6 @@ int main()
     {
         cout << error << '\n';
     }
+    cout << "Group: 12\n";
     return 0;
 }
